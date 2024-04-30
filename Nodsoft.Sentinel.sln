@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nodsoft.Sentinel.Agent", "Nodsoft.Sentinel.Agent\Nodsoft.Sentinel.Agent.csproj", "{BFD6340E-BDA8-4D41-9182-06A02A8201DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nodsoft.Serilog.Sinks.ToastNotifications", "Nodsoft.Serilog.Sinks.ToastNotifications\Nodsoft.Serilog.Sinks.ToastNotifications.csproj", "{BE8F1CB5-4E3C-40CE-B4BF-290EA9354355}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{BFD6340E-BDA8-4D41-9182-06A02A8201DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFD6340E-BDA8-4D41-9182-06A02A8201DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFD6340E-BDA8-4D41-9182-06A02A8201DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE8F1CB5-4E3C-40CE-B4BF-290EA9354355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8F1CB5-4E3C-40CE-B4BF-290EA9354355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8F1CB5-4E3C-40CE-B4BF-290EA9354355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8F1CB5-4E3C-40CE-B4BF-290EA9354355}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
